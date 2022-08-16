@@ -1,0 +1,6 @@
+{
+    "name": "udem-serverless",
+    "version": "0.0.1",
+    "description": "",
+    "main": "serverless.yml"
+}
